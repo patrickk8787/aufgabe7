@@ -45,5 +45,5 @@ Reports:
 
 ## Zusatzaufgabe
 
-Integriere dein Repository in Travis CI: http://travis.io/ und
+Integriere dein Repository in Travis CI: https://travis-ci.org/ und
 überprüfe, ob dein Projekt erfolgreich getestet und gebaut wird.
