@@ -50,3 +50,5 @@ local.properties
 # Code Recommenders
 .recommenders/
 
+/JavaApplication3/nbproject/private/
+/nbproject/
